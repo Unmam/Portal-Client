@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "By Unmam",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyA8BXWtU_K7cNM2R0eUZsbOkw9fjbJCMYk"
 };
