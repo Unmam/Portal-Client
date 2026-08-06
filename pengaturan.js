@@ -8,5 +8,6 @@ const CONFIG_APP = {
     namaVendor: "By Unmam",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyA8BXWtU_K7cNM2R0eUZsbOkw9fjbJCMYk"
+    googleApiKey: "AIzaSyA8BXWtU_K7cNM2R0eUZsbOkw9fjbJCMYk",
+    whatsappAdmin: "6285246286674"//
 };
